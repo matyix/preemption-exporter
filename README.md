@@ -1,3 +1,6 @@
+Moved to Banzai Cloud [Preemption exporter](https://github.com/banzaicloud/preemption-exporter)
+-----
+
 ## Preemptible instance termination exporter
 
 Prometheus [exporters](https://prometheus.io/docs/instrumenting/writing_exporters) are used to export metrics from third-party systems as Prometheus metrics - this is an exporter to scrape for GCP spot price termination notice on the instance for [Hollowtrees](https://github.com/banzaicloud/hollowtrees).
